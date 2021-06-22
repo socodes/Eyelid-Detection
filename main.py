@@ -1,5 +1,5 @@
 """
-DEveloped by PIM-Tech
+Developed by PIM-Tech
 2151835 - İbrahim Aydın
 2243392 - Pınar Dilbaz
 2243384 - Muhammed Didin
